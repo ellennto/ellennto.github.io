@@ -1,0 +1,51 @@
+@font-face{
+    font-family: Ellen;
+    src:url(fonts/calligrap.otf);
+}
+h1, th, h2{
+    font-family: "Ellen", sans-serif;
+}
+@font-face{ 
+    font-family: hehe;
+    src:url(fonts/manksa.otf);
+}
+h3{ 
+    font-family:"hehe", sans-serif;
+}
+ #nav {
+    list-style-type: none;
+    margin: -8px;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+}
+#nav li {
+    float:left;
+}
+#nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#nav li a:hover {
+    background-color: #111;
+}
+#nav li a:active {
+    background-color: grey;
+    color: black;
+}
+body{
+    background-image: url(images/background.jpg);
+    background-color:#e3f774;
+    color: white;
+}
+table{
+    margin:auto;
+}
+ol{
+    width:180px;
+    margin:auto;
+}
+
