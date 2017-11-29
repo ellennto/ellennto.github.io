@@ -2,7 +2,6 @@
     font-family: Ellen;
     src:url(fonts/calligrap.otf);
 }
-
 h1{
     font-family: "Ellen", sans-serif;
 }
@@ -20,13 +19,7 @@ h1{
     float: left;
 }
 
-#nav li a {
-    display: block;
-    color: white;
-    text-align: left;
-    padding: 14px 16px;
-    text-decoration: none;
-}
+
 #nav li a:hover {
     background-color: #111;
 }
