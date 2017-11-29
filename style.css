@@ -2,11 +2,7 @@
     font-family: Ellen;
     src:url(fonts/calligrap.otf);
 }
-body{
-    background-image: url(images/bordering.jpg);
-    background-color:#647262;
-    color: white;
-}
+
 h1{
     font-family: "Ellen", sans-serif;
 }
